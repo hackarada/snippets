@@ -2,7 +2,7 @@ import java.io.FileOutputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
-import java.util.*;
+import java.util.Date;
 public class Serialization {
     public static void main(String[] args) throws Exception {
         Person p = new Person();
